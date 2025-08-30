@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👨‍💻 Cuenta Institucional UTN FRC
 
-<!--
-**405708/405708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este perfil corresponde a mis contribuciones realizadas durante la **Tecnicatura en Programación** en la **Universidad Tecnológica Nacional - Facultad Regional Córdoba (UTN FRC)**.  
 
-Here are some ideas to get you started:
+Aquí se encuentran repositorios de proyectos académicos desarrollados en equipo como parte de la cursada, incluyendo:  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Proyectos académicos destacados
+- **Gestión de Barrios Privados**  
+  Proyecto grupal con más de 40 estudiantes, dividido en módulos bajo metodología Scrum.  
+  - Módulo principal: **Multas y Denuncias**  
+  - Tecnologías: Java, Spring Boot, Angular, TypeScript, SQL, Docker, GitHub (colaboración con forks y ramas)  
+  - Arquitectura: Microservicios con comunicación entre módulos.  
+
+- **Otros proyectos de la cursada**  
+  - CRUDs con Java y JPA (Hibernate)   
+  - Aplicaciones backend con consola (ejemplo: *El Estanciero*)
+  - Creación de proyectos SPA en Angular y Comunicación con APIs
+  - Sistemas en C# (WinForms)
+
+
+---
+
+📌 Esta cuenta institucional refleja mi participación en trabajos académicos y en equipo.  
+👉 Para información completa de mis proyectos personales y profesionales, visitá mi cuenta principal: [@martinvazquezflexes](https://github.com/martinvazquezflexes)
+
