@@ -21,5 +21,5 @@ Aquí se encuentran repositorios de proyectos académicos desarrollados en equip
 ---
 
 📌 Esta cuenta institucional refleja mi participación en trabajos académicos y en equipo.  
-👉 Para información completa de mis proyectos personales y profesionales, visitá mi cuenta principal: [@martinvazquezflexes](https://github.com/martinvazquezflexes)
+👉 Para información completa de mis proyectos personales y profesionales, visitá mi cuenta principal: [@MartinVazquez12](https://github.com/MartinVazquez12)
 
